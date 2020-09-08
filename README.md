@@ -46,7 +46,7 @@ Only the host machine can accept connections from the Internet. Access to this m
 73.251.65.118
 
 Machines within the network can only be accessed by JumpBox.
-- Which machine did you allow to access your ELK VM? JumpBox, Web1 and Web2 What was its IP address? 10.0.0.4,  10.0.0.5 and 10.0.0.6.
+- Which machine did you allow to access your ELK VM? JumpBox, Web1 and Web2 What was its IP address? 10.0.0.4,  10.0.0.7 and 10.0.0.8.
 
 A summary of the access policies in place can be found in the table below.
 
